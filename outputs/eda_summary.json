@@ -1,0 +1,18 @@
+{
+  "num_rows": 925,
+  "num_classes": 26,
+  "top_classes": {
+    "sightseeing": 504,
+    "relaxing": 157,
+    "hiking": 96,
+    "nan": 32,
+    "exploring": 24,
+    "walking": 15,
+    "praying": 11,
+    "photography": 7,
+    "worship": 7,
+    "no activity": 7
+  },
+  "avg_text_len": 148.13297297297296,
+  "median_text_len": 131.0
+}
